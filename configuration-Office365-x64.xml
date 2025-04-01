@@ -1,0 +1,12 @@
+XML:
+<Configuration>
+
+  <Add OfficeClientEdition="32" Branch="Current" Version="16.0.4229.1029" SourcePath="C:\odt">
+    <Product ID="O365BusinessRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+
+  <Logging Level="Standard" Path="C:\odt\log" />
+
+</Configuration>
